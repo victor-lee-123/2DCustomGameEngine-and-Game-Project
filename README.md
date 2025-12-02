@@ -19,7 +19,10 @@ Engine features:
 - on-screen entity transformation
 
 # 👟 TO RUN THE ENGINE
-Simply unzip the file, and run x64/Release/Engine.exe
+Simply unzip the file, and run Engine/Release/Engine.exe
+
+# 👟 TO RUN THE GAME
+Run via Game/Corvaders.exe
 
 # ⚠️ IMPORTANT NOTES
 The game engine runs as a pause state and there will be no running entities shown on the viewport. To run, simply click on "Play" on the top panel. "Stop" button deletes all entities on the viewport.
